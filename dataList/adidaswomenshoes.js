@@ -2,7 +2,7 @@ export const adidasWomenShoes = [
   {
     id: "11",
     title: "ULTRABOOST 1.0 SHOES",
-    price: "₱9,500",
+    price: 9500,
     description:
       "From everyday errands to exploring the city, these adidas Ultraboost shoes bring undefeated comfort. The adidas PRIMEKNIT upper is designed to hug your feet for all-day support. ",
     sale: "10%",
@@ -30,7 +30,7 @@ export const adidasWomenShoes = [
   {
     id: "12",
     title: "SUPERNOVA 3 RUNNING SHOES",
-    price: "₱6,000",
+    price: 6000,
     description:
       "Whether you run near, far, swift or slow, the adidas Supernova 3 shoes help you run in your comfort zone.",
     sale: "20%",
@@ -58,7 +58,7 @@ export const adidasWomenShoes = [
   {
     id: "13",
     title: "RUN 60S 3.0 LIFESTYLE RUNNING SHOES",
-    price: "₱3,000",
+    price: 3000,
     description:
       "Enjoy those long weekend walks in these adidas trainers. Taking design cues from archival running shoes, they have a clean, versatile aesthetic that stays grounded with an elevated midsole.",
     sale: "30%",
@@ -86,7 +86,7 @@ export const adidasWomenShoes = [
   {
     id: "14",
     title: "CLOUDFOAM PURE SHOES",
-    price: "₱3,900",
+    price: 3900,
     description:
       "No one gets it done like you do. Step into a pair of adidas shoes that can keep up. The swift, angular design embodies your on-the-go lifestyle. The Cloudfoam midsole brings ultimate cushioning, so every step feels light and springy. It's a versatile look, with that confident style you're known for.",
     sale: "10%",
@@ -114,7 +114,7 @@ export const adidasWomenShoes = [
   {
     id: "15",
     title: "DURAMO RC SHOES",
-    price: "₱3,000",
+    price: 3000,
     description:
       "Run a little faster. Run a little further. With the light, soft and supportive feel of these adidas running shoes, you're set to take the next step in your running journey. ",
     sale: "20%",
@@ -142,7 +142,7 @@ export const adidasWomenShoes = [
   {
     id: "16",
     title: "DURAMO SPEED SHOES",
-    price: "₱4,500",
+    price: 4500,
     description:
       "A combination of a lightweight & breathable engineered mesh upper with a full length LIGHTSTRIKE midsole for faster movement and durable outsole was built for runners looking to learn the ropes and push themselves to the next level.",
     sale: "30%",
@@ -170,7 +170,7 @@ export const adidasWomenShoes = [
   {
     id: "17",
     title: "DROPSET TRAINER SHOES",
-    price: "₱6,500",
+    price: 6500,
     description:
       "Tackle your strength training and gym workouts without hesitation. These adidas training shoes help you level up your game. ",
     sale: "30%",
@@ -198,7 +198,7 @@ export const adidasWomenShoes = [
   {
     id: "18",
     title: "GAMECOURT 2.0 TENNIS SHOES",
-    price: "₱3,500",
+    price: 3500,
     description:
       "Stay confident through every game, set and match. A lightweight mesh upper and padded heel make these adidas Gamecourt 2.0 shoes your perfect tennis partner.",
     sale: "10%",
@@ -226,7 +226,7 @@ export const adidasWomenShoes = [
   {
     id: "19",
     title: "ADIZERO UBERSONIC 4 TENNIS SHOES",
-    price: "₱6,800",
+    price: 6800,
     description:
       "Speed buys time. Time earns points. That's why these adidas Adizero Ubersonic 4 tennis shoes were designed to get you to the ball faster.",
     sale: "20%",
@@ -254,7 +254,7 @@ export const adidasWomenShoes = [
   {
     id: "20",
     title: "BARRICADE TENNIS SHOES",
-    price: "₱4,900",
+    price: 4900,
     description:
       "The perfect platform for hard court domination. These adidas Barricade tennis shoes have an intuitive lacing system that locks you in by pulling down the neoprene tongue to match your foot shape.",
     sale: "30%",

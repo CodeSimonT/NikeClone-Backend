@@ -9,10 +9,13 @@ app.use(cors());
 import dotenv from "dotenv";
 dotenv.config();
 
-app.use(express.json({ limit: "30mb", extended: true }));
+import router from "./routes/routes.js";
+
+app.use(express.json());
 app.use(express.urlencoded({ limit: "30mb", extended: true }));
 
 // routes
+app.use("/shoes", router);
 
 const port = process.env.PORT || 5000;
 

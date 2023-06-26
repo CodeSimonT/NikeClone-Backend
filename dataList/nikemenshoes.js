@@ -2,7 +2,7 @@ export const nikeMenShoes = [
   {
     id: "51",
     title: "Nike Invincible 3",
-    price: "₱9,895",
+    price: 9895,
     description:
       "With maximum cushioning to support every mile, the Invincible 3 gives you our highest level of comfort underfoot to help you stay on your feet today, tomorrow and beyond.",
     sale: "10%",
@@ -30,7 +30,7 @@ export const nikeMenShoes = [
   {
     id: "52",
     title: "Nike Pegasus Turbo Next Nature SE",
-    price: "₱8,395",
+    price: 8395,
     description:
       "Let this esteemed stallion help you log the hard miles. Complete with lighter, responsive foam and a feathery upper, this motley-coloured mare helps you increase tempo without sacrificing comfort as you push towards a personal best.",
     sale: "20%",
@@ -58,7 +58,7 @@ export const nikeMenShoes = [
   {
     id: "53",
     title: "Nike Rival Fly 3",
-    price: "₱4,595",
+    price: 4595,
     description:
       "When you're ready to ramp up the speed and go the distance, take off in a model that's built for training and racing.",
     sale: "30%",
@@ -86,7 +86,7 @@ export const nikeMenShoes = [
   {
     id: "54",
     title: "Jumpman Two Trey",
-    price: "₱8,395",
+    price: 8395,
     description:
       "Like Two Trey on MJ's licence plate, let your presence be known. This new generation of Jordan celebrates Mike's time in Chicago, complete with high-quality leather uppers and Air cushioned soles. ",
     sale: "10%",
@@ -114,7 +114,7 @@ export const nikeMenShoes = [
   {
     id: "55",
     title: "Jordan Max Aura 5",
-    price: "₱7,395",
+    price: 7395,
     description:
       "Whenyou need a shoe that's ready 24/7, it's gotta be the Max Aura 5. Inspired by the AJ3, this pair of kicks puts a modern spin on the classic.",
     sale: "20%",
@@ -142,7 +142,7 @@ export const nikeMenShoes = [
   {
     id: "56",
     title: "Air Jordan XXXVII Low PF",
-    price: "₱9,495",
+    price: 9495,
     description:
       "You've got the hops and the speed—lace up in shoes that enhance what you bring to the court. The latest AJ is all about take-offs and landings, with multiple Air units to get you off the ground.",
     sale: "30%",
@@ -170,7 +170,7 @@ export const nikeMenShoes = [
   {
     id: "57",
     title: "LeBron Witness 7 EP",
-    price: "₱5,295",
+    price: 5295,
     description:
       "The longer LeBron's legendary career continues, the more his game needs a design that doesn't weigh him down, yet can still control all that sublime power.",
     sale: "10%",
@@ -198,7 +198,7 @@ export const nikeMenShoes = [
   {
     id: "58",
     title: "Nike Metcon 8",
-    price: "₱7,395",
+    price: 7395,
     description:
       " Our go-to model for training relies on a lighter, more breathable upper than our previous edition to complement our standards of durability and comfort, so that you can float through your cardio, power through your lifts and dominate your workouts.",
     sale: "20%",
@@ -226,7 +226,7 @@ export const nikeMenShoes = [
   {
     id: "59",
     title: "Nike City Rep TR",
-    price: "₱2,895",
+    price: 2895,
     description:
       "The Nike City Rep TR is a versatile shoe that brings durability and flexibility to your active urban lifestyle. ",
     sale: "10%",
@@ -254,7 +254,7 @@ export const nikeMenShoes = [
   {
     id: "60",
     title: "Nike SuperRep Go 3 Next Nature Flyknit",
-    price: "₱5,295",
+    price: 5295,
     description:
       "The new Nike SuperRep Go 3 Flyknit Shoe is a radical design story rooted in sustainability and innovation. ",
     sale: "20%",

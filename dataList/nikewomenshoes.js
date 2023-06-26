@@ -2,7 +2,7 @@ export const nikeWomenShoes = [
   {
     id: "61",
     title: "Nike Pegasus 40 SE",
-    price: "₱7,395",
+    price: 7395,
     description:
       "This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
     sale: "10%",
@@ -30,7 +30,7 @@ export const nikeWomenShoes = [
   {
     id: "62",
     title: "Nike Pegasus 40 Premium",
-    price: "₱7,895",
+    price: 7895,
     description:
       "This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
     sale: "10%",
@@ -58,7 +58,7 @@ export const nikeWomenShoes = [
   {
     id: "63",
     title: "Nike React Pegasus Trail 4 SE",
-    price: "₱7,395",
+    price: 7395,
     description:
       "Let the Nike React Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road.",
     sale: "20%",
@@ -86,7 +86,7 @@ export const nikeWomenShoes = [
   {
     id: "64",
     title: "Nike SuperRep Go 3 Flyknit Next Nature",
-    price: "₱5,295",
+    price: 5295,
     description:
       "The new Nike SuperRep Go 3 Flyknit is a radical design story rooted in innovation. Made from at least 20% recycled content by weight, the zoned Flyknit construction wraps your foot in 360 degrees of comfort and support.",
     sale: "30%",
@@ -114,7 +114,7 @@ export const nikeWomenShoes = [
   {
     id: "65",
     title: "Nike City Rep TR",
-    price: "₱2,895",
+    price: 2895,
     description:
       "The Nike City Rep TR is a versatile shoe that brings durability and flexibility to your active lifestyle.",
     sale: "30%",
@@ -142,7 +142,7 @@ export const nikeWomenShoes = [
   {
     id: "66",
     title: "Nike Zoom Bella 6",
-    price: "₱4,695",
+    price: 4695,
     description:
       "Unleash your innermost strength and spirit in the Nike Zoom Bella 6. This design supports heavy lifts, explosive movements and primal post-set struts as you flaunt your hard-earned progress on the gym floor.",
     sale: "10%",
@@ -170,7 +170,7 @@ export const nikeWomenShoes = [
   {
     id: "67",
     title: "Nike Free Metcon 4",
-    price: "₱3,869",
+    price: 3869,
     description:
       "The Nike Free Metcon 4 combines flexibility with stability to help you get the most out of your training programme. ",
     sale: "10%",
@@ -198,7 +198,7 @@ export const nikeWomenShoes = [
   {
     id: "68",
     title: "Air Jordan XXXVII Low",
-    price: "₱10,395",
+    price: 10839,
     description:
       "A basketball shoe for you and your unique game. We gathered insights from female ballers and integrated them into this edition of the AJ XXXVII Low, engineered specifically for women.",
     sale: "20%",
@@ -226,7 +226,7 @@ export const nikeWomenShoes = [
   {
     id: "69",
     title: "Air Jordan 1 Elevate High",
-    price: "₱8,595",
+    price: 8595,
     description:
       "Classic Jordan style reaches new heights in this lifted AJ-1. The platform stance and high-top collar make a statement, while crisp leather and flashy finishes make these kicks the winning assist your outfit needs.",
     sale: "30%",
@@ -254,7 +254,7 @@ export const nikeWomenShoes = [
   {
     id: "70",
     title: "Air Jordan 1 Mid SE",
-    price: "₱4,439",
+    price: 4439,
     description:
       "These AJ1s give a classic silhouette the royal treatment. An all-over velvet upper in Purple Smoke looks super luxe, while the embroidered Swoosh, plush laces and colour-matched outsole let you hit refresh on a beloved hoops design.",
     sale: "10%",

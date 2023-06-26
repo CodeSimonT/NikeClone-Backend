@@ -2,7 +2,7 @@ export const underArmourMenShoes = [
   {
     id: "71",
     title: "Men's UA HOVR™ Phantom 3 Storm",
-    price: "₱5,157",
+    price: 5157,
     description:
       "The off-season is for getting better. That means lots of running. Fast, stretchy UA HOVR™ Phantom 3 helps you explode through interval after interval with even more energy-returning UA HOVR™ cushioning. Run now…win later.",
     sale: "10%",
@@ -30,7 +30,7 @@ export const underArmourMenShoes = [
   {
     id: "72",
     title: "Men's UA Flow Velociti Wind 2",
-    price: "₱5,397",
+    price: 5397,
     description:
       "There's fast, and then there's UA Flow fast. Lightweight, rubberless, and durable, our newest cushioning gives a close-to-the-ground, grippy feeling of speed. The kind of speed that feels like you've got the wind at your back.",
     sale: "20%",
@@ -58,7 +58,7 @@ export const underArmourMenShoes = [
   {
     id: "73",
     title: "Men's UA Charged Assert 10",
-    price: "₱3,595",
+    price: 3595,
     description:
       "These are running shoes anyone can wear to go faster—with Charged Cushioning® to help protect against impact, a breathable upper, and durability for miles.",
     sale: "30%",
@@ -86,7 +86,7 @@ export const underArmourMenShoes = [
   {
     id: "74",
     title: "Men's UA HOVR™ Machina 3 Storm",
-    price: "₱6,446",
+    price: 6446,
     description:
       "Best for: Long & everyday runs in the rain with a water-repellent upper & reflective details, UA Storm technology treated upper repels water without sacrificing breathability, Aerodynamic heel design for support without any excess layers or bulk",
     sale: "10%",
@@ -114,7 +114,7 @@ export const underArmourMenShoes = [
   {
     id: "75",
     title: "Men's Project Rock BSR 3 ",
-    price: "₱6,995",
+    price: 6995,
     description:
       "These shoes were built for explosive movement and dynamic training, day in and day out. You never let up, neither do these—stability for strength training, flexibility for HIIT, and cushioning for mobility.",
     sale: "20%",
@@ -142,7 +142,7 @@ export const underArmourMenShoes = [
   {
     id: "76",
     title: "Men's UA HOVR™ Rise 4 ",
-    price: "₱5,595",
+    price: 5595,
     description:
       "Our amazing energy-returning UA HOVR™ cushioning meets the flexible stability of our UA Tribase™outsole. That means every burpee, every ladder drill, every box jump, every movement becomes more explosive.",
     sale: "30%",
@@ -170,7 +170,7 @@ export const underArmourMenShoes = [
   {
     id: "77",
     title: "Men's UA TriBase™ Reign 4 Pro Amp",
-    price: "₱4,977",
+    price: 4977,
     description:
       "The better your contact with the floor during your workouts, the better those workouts are going to be. The low, stable triangular base of the UA TriBase™ tech will help you through every rep, set, and WOD.",
     sale: "10%",
@@ -198,7 +198,7 @@ export const underArmourMenShoes = [
   {
     id: "78",
     title: " UA Reign Lifter",
-    price: "₱11,295",
+    price: 11129,
     description:
       "If you're a serious lifter these are the shoes you need. The midfoot strap keeps you locked in, the TPU heel lift helps support hip and ankle flexibility, and the outsole is firm and flat for maximum ground contact.",
     sale: "30%",
@@ -226,7 +226,7 @@ export const underArmourMenShoes = [
   {
     id: "79",
     title: "UA Lockdown 6",
-    price: "₱4,295",
+    price: 4295,
     description:
       "These are light, comfortable, and tough enough to last all season—making them a go-to court shoe year after year.",
     sale: "10%",
@@ -254,7 +254,7 @@ export const underArmourMenShoes = [
   {
     id: "80",
     title: "Curry 2",
-    price: "₱ 5,517",
+    price: 3451,
     description:
       "Own the court in the original Curry 2s—back for a special, limited re-release. Make every cut more powerful with shock-absorbing cushioning and the custom-fit of a foot-hugging UA Speedform upper.",
     sale: "20%",

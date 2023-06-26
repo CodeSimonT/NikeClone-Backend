@@ -2,7 +2,7 @@ export const newbalanceWomenShoes = [
   {
     id: "41",
     title: "Fresh Foam X 880v13",
-    price: "₱6,999",
+    price: 6999,
     description:
       "Function meets performance the New Balance Fresh Foam X 880v13. Featuring a plush and supportive Fresh Foam X midsole and NDurance rubber outsole, this shoe delivers enhanced performance and comfort with each step. ",
     sale: "10%",
@@ -30,7 +30,7 @@ export const newbalanceWomenShoes = [
   {
     id: "42",
     title: "1540v3",
-    price: "₱8,999",
+    price: 8999,
     description:
       "Our 1540v3 is kitted out with technology that helps deliver mile-after-mile stability and combat overpronation. It's made with two layers of performance foam that offers superior support and a soft rebound. ",
     sale: "20%",
@@ -58,7 +58,7 @@ export const newbalanceWomenShoes = [
   {
     id: "43",
     title: "Fresh Foam Roav",
-    price: "₱3,749",
+    price: 3749,
     description:
       "Revolutionizing comfort and style, the Fresh Foam Roav women's sneaker delivers an unbeatable ride that is just as comfortable around the foot as it is underneath it.",
     sale: "30%",
@@ -86,7 +86,7 @@ export const newbalanceWomenShoes = [
   {
     id: "44",
     title: "Fresh Foam X Hierro v7",
-    price: "₱6,999",
+    price: 6999,
     description:
       "For those who take going off the beaten path literally, there’s the Fresh Foam X Hierro, a dedicated, off-road application of our best running technology.",
     sale: "30%",
@@ -114,7 +114,7 @@ export const newbalanceWomenShoes = [
   {
     id: "45",
     title: "840v5",
-    price: "₱6,999",
+    price: 6999,
     description:
       "Our comfortable and versatile 840v5 women's running shoe is designed for every runner. The full-length ABZORB midsole offers lasting cushioning and a responsive ride no matter your foot type, while the breathable mesh upper provides stretch for a supportive and stable fit where you need it.",
     sale: "30%",
@@ -142,7 +142,7 @@ export const newbalanceWomenShoes = [
   {
     id: "46",
     title: "FuelCell 996v5",
-    price: "₱6,749",
+    price: 6749,
     description:
       "Zip around the court in comfort and style in the New Balance Fuel Cell 996v5. Our lightweight Fuel Cell foam midsole is paired with a hardwearing NDurance rubber outsole for a tennis shoe that provides superior comfort and traction. ",
     sale: "30%",
@@ -170,7 +170,7 @@ export const newbalanceWomenShoes = [
   {
     id: "47",
     title: "New Balance 796v3",
-    price: "₱3,749",
+    price: 3749,
     description:
       "Enhance your footwork on hard courts with the New Balance 796v3. The 8 mm drop and REVlite cushioning create a reactive feel to help keep you on the ball, while the mesh upper with no-sew construction has a lightweight design to help you feel faster.",
     sale: "10%",
@@ -198,7 +198,7 @@ export const newbalanceWomenShoes = [
   {
     id: "48",
     title: "DynaSoft Nergize Sport v2",
-    price: "₱3,499",
+    price: 3499,
     description:
       "The New Balance DynaSoft Nergize Sport v2 is built to perform and styled for everyday wear. These versatile shoes feature a DynaSoft midsole for plush comfort and adjustable laces for a locked-in and supportive fit.",
     sale: "20%",
@@ -226,7 +226,7 @@ export const newbalanceWomenShoes = [
   {
     id: "49",
     title: "DynaSoft Nergize Slip On",
-    price: "₱2,999",
+    price: 2999,
     description:
       "Slip into the New Balance DynaSoft Nergize Slip On for all-day comfort. These slip-on shoes feature easy on/off construction with a memory insert and DynaSoft midsole foam for cushioned comfort. A rubber outsole provides impressive durability.",
     sale: "10%",
@@ -254,7 +254,7 @@ export const newbalanceWomenShoes = [
   {
     id: "50",
     title: "NB Nergize Sport",
-    price: "₱3,249",
+    price: 3249,
     description:
       "Slip on the sleek, sporty comfort of the NB Nergize Sport. These everyday shoes feature REVlite midsole cushioning, a bootie construction for a snug fit, and a durable rubber outsole.",
     sale: "10%",
