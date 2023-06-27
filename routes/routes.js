@@ -23,7 +23,7 @@ import {
   getSingleUnderArmourWomen,
 } from "../controllers/allWomenShoes.js";
 // all shoes import
-import { getAllShoes } from "../controllers/allShoes.js";
+import { getAllShoes, getSingleShoes } from "../controllers/allShoes.js";
 
 // routes for men
 router.get("/getAllAddidasMen", getAllAddidasMen);
@@ -47,7 +47,7 @@ router.get("/getSingleUnderArmourWomen/:id", getSingleUnderArmourWomen);
 
 // routes for all shoes
 router.get("/getAllShoes", getAllShoes);
-
+router.get("/getSingleShoes/:id", getSingleShoes);
 // import { signup, signin } from "../controllers/controller.js";
 
 // route.post("/signup", signup);
