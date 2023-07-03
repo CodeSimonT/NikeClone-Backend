@@ -5,8 +5,9 @@ export const nikeWomenShoes = [
     price: 7395,
     description:
       "This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
-    sale: "10%",
+    sale: 10,
     category: "Running",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -33,8 +34,9 @@ export const nikeWomenShoes = [
     price: 7895,
     description:
       "This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
-    sale: "10%",
+    sale: 10,
     category: "Running",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -61,8 +63,9 @@ export const nikeWomenShoes = [
     price: 7395,
     description:
       "Let the Nike React Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road.",
-    sale: "20%",
+    sale: 20,
     category: "Running",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -89,8 +92,9 @@ export const nikeWomenShoes = [
     price: 5295,
     description:
       "The new Nike SuperRep Go 3 Flyknit is a radical design story rooted in innovation. Made from at least 20% recycled content by weight, the zoned Flyknit construction wraps your foot in 360 degrees of comfort and support.",
-    sale: "30%",
+    sale: 30,
     category: "Training",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -117,8 +121,9 @@ export const nikeWomenShoes = [
     price: 2895,
     description:
       "The Nike City Rep TR is a versatile shoe that brings durability and flexibility to your active lifestyle.",
-    sale: "30%",
+    sale: 30,
     category: "Training",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -145,8 +150,9 @@ export const nikeWomenShoes = [
     price: 4695,
     description:
       "Unleash your innermost strength and spirit in the Nike Zoom Bella 6. This design supports heavy lifts, explosive movements and primal post-set struts as you flaunt your hard-earned progress on the gym floor.",
-    sale: "10%",
+    sale: 10,
     category: "Training",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -173,8 +179,9 @@ export const nikeWomenShoes = [
     price: 3869,
     description:
       "The Nike Free Metcon 4 combines flexibility with stability to help you get the most out of your training programme. ",
-    sale: "10%",
+    sale: 10,
     category: "Training",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -201,8 +208,9 @@ export const nikeWomenShoes = [
     price: 10839,
     description:
       "A basketball shoe for you and your unique game. We gathered insights from female ballers and integrated them into this edition of the AJ XXXVII Low, engineered specifically for women.",
-    sale: "20%",
+    sale: 20,
     category: "Basketball",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -221,7 +229,7 @@ export const nikeWomenShoes = [
       "US 13",
     ],
     image:
-      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d8b946dc-2f54-4c8c-bb79-36cdbcad876c/free-metcon-4-training-shoes-k5B8Jf.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/421da929-53d5-44fe-a658-6635acec612a/air-jordan-xxxvii-low-basketball-shoes-Z2glMj.png",
   },
   {
     id: "69",
@@ -229,8 +237,9 @@ export const nikeWomenShoes = [
     price: 8595,
     description:
       "Classic Jordan style reaches new heights in this lifted AJ-1. The platform stance and high-top collar make a statement, while crisp leather and flashy finishes make these kicks the winning assist your outfit needs.",
-    sale: "30%",
+    sale: 30,
     category: "Basketball",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -257,8 +266,9 @@ export const nikeWomenShoes = [
     price: 4439,
     description:
       "These AJ1s give a classic silhouette the royal treatment. An all-over velvet upper in Purple Smoke looks super luxe, while the embroidered Swoosh, plush laces and colour-matched outsole let you hit refresh on a beloved hoops design.",
-    sale: "10%",
+    sale: 10,
     category: "Basketball",
+    promo: "",
     for: "Women's Shoes",
     size: [
       "US 6.5",
