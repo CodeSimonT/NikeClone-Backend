@@ -7,7 +7,7 @@ export const underArmourWomenShoes = [
       "Specially built for trail running, with crazy cushioning, traction that grips even muddy terrain, and the extra protection trail runners need to keep going.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -36,7 +36,7 @@ export const underArmourWomenShoes = [
       "The UA HOVR™ Sonic is a no-brainer for runners who like distance but want more flexibility, a breathable feel, and the real-time feedback of Form Coaching from UA MapMyRun™ to help you run better every time you lace them up.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -65,7 +65,7 @@ export const underArmourWomenShoes = [
       "The off-season is for getting better. That means lots of running. Fast, stretchy UA HOVR™ Phantom 3 helps you explode through interval after interval with even more energy-returning UA HOVR™ cushioning. Run now…win later.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -94,7 +94,7 @@ export const underArmourWomenShoes = [
       "This year's UA Pride collection supports Unmatched Athlete, WorldPride, and Rainbow Labs, each with the goal of providing safe places for LGBTQ+ athletes and allies to play and compete.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -123,7 +123,7 @@ export const underArmourWomenShoes = [
       "UA Charged Intake was designed to keep your feet cooler and drier, so you can log as many miles as you want.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -152,7 +152,7 @@ export const underArmourWomenShoes = [
       "Feels like a cloud and fits like a glove. We took our super-springy UA HOVR™ cushioning and put it in a trainer that's built specifically for the female foot.",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -181,7 +181,7 @@ export const underArmourWomenShoes = [
       "These are the most versatile training shoes we've ever made. They feel great, feel cool, cushion better, fit perfectly, handle your toughest training, AND have a heel that converts easily from recover mode to train mode.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -210,7 +210,7 @@ export const underArmourWomenShoes = [
       "If you're a serious lifter these are the shoes you need. The midfoot strap keeps you locked in, the TPU heel lift helps support hip and ankle flexibility, and the outsole is firm and flat for maximum ground contact.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -239,7 +239,7 @@ export const underArmourWomenShoes = [
       "Women's feet are a different shape than men's. That's a fact. These shoes were built for women by women, giving you the best fit, support, and flex. And, with UA Flow cushioning you also get the best grip on any court.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -268,7 +268,7 @@ export const underArmourWomenShoes = [
       "These shoes combine the light, grippy speed of Curry 10's UA Flow cushioning with the custom feel of your favorite Curry 1's form-fitting upper. Why? Because this unreal combo puts you a step ahead all game long.",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",

@@ -7,7 +7,7 @@ export const underArmourMenShoes = [
       "The off-season is for getting better. That means lots of running. Fast, stretchy UA HOVR™ Phantom 3 helps you explode through interval after interval with even more energy-returning UA HOVR™ cushioning. Run now…win later.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -36,7 +36,7 @@ export const underArmourMenShoes = [
       "There's fast, and then there's UA Flow fast. Lightweight, rubberless, and durable, our newest cushioning gives a close-to-the-ground, grippy feeling of speed. The kind of speed that feels like you've got the wind at your back.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -65,7 +65,7 @@ export const underArmourMenShoes = [
       "These are running shoes anyone can wear to go faster—with Charged Cushioning® to help protect against impact, a breathable upper, and durability for miles.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -94,7 +94,7 @@ export const underArmourMenShoes = [
       "Best for: Long & everyday runs in the rain with a water-repellent upper & reflective details, UA Storm technology treated upper repels water without sacrificing breathability, Aerodynamic heel design for support without any excess layers or bulk",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -123,7 +123,7 @@ export const underArmourMenShoes = [
       "These shoes were built for explosive movement and dynamic training, day in and day out. You never let up, neither do these—stability for strength training, flexibility for HIIT, and cushioning for mobility.",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -152,7 +152,7 @@ export const underArmourMenShoes = [
       "Our amazing energy-returning UA HOVR™ cushioning meets the flexible stability of our UA Tribase™outsole. That means every burpee, every ladder drill, every box jump, every movement becomes more explosive.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -181,7 +181,7 @@ export const underArmourMenShoes = [
       "The better your contact with the floor during your workouts, the better those workouts are going to be. The low, stable triangular base of the UA TriBase™ tech will help you through every rep, set, and WOD.",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -210,7 +210,7 @@ export const underArmourMenShoes = [
       "If you're a serious lifter these are the shoes you need. The midfoot strap keeps you locked in, the TPU heel lift helps support hip and ankle flexibility, and the outsole is firm and flat for maximum ground contact.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -239,7 +239,7 @@ export const underArmourMenShoes = [
       "These are light, comfortable, and tough enough to last all season—making them a go-to court shoe year after year.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -268,7 +268,7 @@ export const underArmourMenShoes = [
       "Own the court in the original Curry 2s—back for a special, limited re-release. Make every cut more powerful with shock-absorbing cushioning and the custom-fit of a foot-hugging UA Speedform upper.",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",

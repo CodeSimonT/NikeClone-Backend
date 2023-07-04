@@ -25,6 +25,14 @@ import {
 // all shoes import
 import { getAllShoes, getSingleShoes } from "../controllers/allShoes.js";
 
+// import {
+//   register,
+//   login,
+//   authenticateUser,
+//   addToCart,
+//   retriveCart,
+// } from "../controllers/user.js";
+
 // routes for men
 router.get("/getAllAddidasMen", getAllAddidasMen);
 router.get("/getSingleAddidasMen/:id", getSingleAddidasMen);
@@ -48,11 +56,7 @@ router.get("/getSingleUnderArmourWomen/:id", getSingleUnderArmourWomen);
 // routes for all shoes
 router.get("/getAllShoes", getAllShoes);
 router.get("/getSingleShoes/:id", getSingleShoes);
-// import { signup, signin } from "../controllers/controller.js";
 
-// route.post("/signup", signup);
-// route.post("/signin", signin);
-
-// router.route("/api").get(getAllItem).post(createitem);
+// router.get("/register", register);
 
 export default router;

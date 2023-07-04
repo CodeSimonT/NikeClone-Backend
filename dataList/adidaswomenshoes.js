@@ -7,7 +7,7 @@ export const adidasWomenShoes = [
       "From everyday errands to exploring the city, these adidas Ultraboost shoes bring undefeated comfort. The adidas PRIMEKNIT upper is designed to hug your feet for all-day support. ",
     sale: 10,
     category: "Running",
-    promom: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -36,6 +36,7 @@ export const adidasWomenShoes = [
       "Whether you run near, far, swift or slow, the adidas Supernova 3 shoes help you run in your comfort zone.",
     sale: 20,
     category: "Running",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -64,6 +65,7 @@ export const adidasWomenShoes = [
       "Enjoy those long weekend walks in these adidas trainers. Taking design cues from archival running shoes, they have a clean, versatile aesthetic that stays grounded with an elevated midsole.",
     sale: 30,
     category: "Running",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -92,6 +94,7 @@ export const adidasWomenShoes = [
       "No one gets it done like you do. Step into a pair of adidas shoes that can keep up. The swift, angular design embodies your on-the-go lifestyle. The Cloudfoam midsole brings ultimate cushioning, so every step feels light and springy. It's a versatile look, with that confident style you're known for.",
     sale: 10,
     category: "Running",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -120,6 +123,7 @@ export const adidasWomenShoes = [
       "Run a little faster. Run a little further. With the light, soft and supportive feel of these adidas running shoes, you're set to take the next step in your running journey. ",
     sale: 20,
     category: "Running",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -148,6 +152,7 @@ export const adidasWomenShoes = [
       "A combination of a lightweight & breathable engineered mesh upper with a full length LIGHTSTRIKE midsole for faster movement and durable outsole was built for runners looking to learn the ropes and push themselves to the next level.",
     sale: 30,
     category: "Running",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -176,6 +181,7 @@ export const adidasWomenShoes = [
       "Tackle your strength training and gym workouts without hesitation. These adidas training shoes help you level up your game. ",
     sale: 30,
     category: "Training",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -204,6 +210,7 @@ export const adidasWomenShoes = [
       "Stay confident through every game, set and match. A lightweight mesh upper and padded heel make these adidas Gamecourt 2.0 shoes your perfect tennis partner.",
     sale: 10,
     category: "Tennis",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -232,6 +239,7 @@ export const adidasWomenShoes = [
       "Speed buys time. Time earns points. That's why these adidas Adizero Ubersonic 4 tennis shoes were designed to get you to the ball faster.",
     sale: 20,
     category: "Tennis",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -260,6 +268,7 @@ export const adidasWomenShoes = [
       "The perfect platform for hard court domination. These adidas Barricade tennis shoes have an intuitive lacing system that locks you in by pulling down the neoprene tongue to match your foot shape.",
     sale: 30,
     category: "Tennis",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",

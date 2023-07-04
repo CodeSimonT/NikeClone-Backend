@@ -7,7 +7,7 @@ export const newbalanceMenShoes = [
       "The 1080 delivers top-of-the-line performance to every kind of runner, whether you’re training for world-class competition, or catching a rush hour train. The Fresh Foam X 1080v12 represents a consistent progression of the model’s signature qualities.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -36,7 +36,7 @@ export const newbalanceMenShoes = [
       "Our 1540v3 is kitted out with technology that helps deliver mile-after-mile stability and combat overpronation. It's made with two layers of performance foam that offers superior support and a soft rebound.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -65,7 +65,7 @@ export const newbalanceMenShoes = [
       "What makes the 1080 unique isn’t just that it’s the best running shoe we make. It delivers the top-of-the-line performance of the best running shoe we make to every kind of runner.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -94,7 +94,7 @@ export const newbalanceMenShoes = [
       "Uneven terrain, debris, and moisture are unique challenges to footwear that require specialized construction. For those who take going off the beaten path literally, there’s the Fresh Foam X Hierro, a dedicated, off-road application of our best running technology.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -123,7 +123,7 @@ export const newbalanceMenShoes = [
       "Hit the road in any weather with the New Balance Fresh Foam Arishi v4 GTX running shoe. Designed to be capable, comfortable and durable, this runner features Fresh Foam midsole cushioning for a plush underfoot feel, and GORE-TEX® waterproof fabric in the upper to help keep feet protected.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -152,7 +152,7 @@ export const newbalanceMenShoes = [
       "Whether you enjoy lifting weights or performing weekly HIIT workouts, our Minimus TR men's training shoe is a must-have for anyone who craves support and a lightweight feel.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -181,7 +181,7 @@ export const newbalanceMenShoes = [
       "Built to perform from the gym floor to the turf to the concrete, the New Balance FuelCell Trainer v2 can do it all. ",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -210,7 +210,7 @@ export const newbalanceMenShoes = [
       "Whether you're lifting weights or performing weekly HIIT workouts, our New Balance Minimus TR BOA men's training shoe is a must-have for anyone who craves support and a lightweight feel.",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -239,7 +239,7 @@ export const newbalanceMenShoes = [
       "A signature shoe is more than a name. Its design expresses the qualities that make an individual stand out from the crowd in their chosen field. That’s why the Coco CG1 is a unique blend of statement making style and high-performance. ",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -268,7 +268,7 @@ export const newbalanceMenShoes = [
       "Enhance your footwork on hard courts with the New Balance 796v3. The 8 mm drop and REVlite cushioning create a reactive feel to help keep you on the ball, while the mesh upper with no-sew construction has a lightweight design to help you feel faster. ",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",

@@ -7,7 +7,7 @@ export const nikeWomenShoes = [
       "This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -36,7 +36,7 @@ export const nikeWomenShoes = [
       "This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -65,7 +65,7 @@ export const nikeWomenShoes = [
       "Let the Nike React Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -94,7 +94,7 @@ export const nikeWomenShoes = [
       "The new Nike SuperRep Go 3 Flyknit is a radical design story rooted in innovation. Made from at least 20% recycled content by weight, the zoned Flyknit construction wraps your foot in 360 degrees of comfort and support.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -123,7 +123,7 @@ export const nikeWomenShoes = [
       "The Nike City Rep TR is a versatile shoe that brings durability and flexibility to your active lifestyle.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -152,7 +152,7 @@ export const nikeWomenShoes = [
       "Unleash your innermost strength and spirit in the Nike Zoom Bella 6. This design supports heavy lifts, explosive movements and primal post-set struts as you flaunt your hard-earned progress on the gym floor.",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -181,7 +181,7 @@ export const nikeWomenShoes = [
       "The Nike Free Metcon 4 combines flexibility with stability to help you get the most out of your training programme. ",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -210,7 +210,7 @@ export const nikeWomenShoes = [
       "A basketball shoe for you and your unique game. We gathered insights from female ballers and integrated them into this edition of the AJ XXXVII Low, engineered specifically for women.",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -239,7 +239,7 @@ export const nikeWomenShoes = [
       "Classic Jordan style reaches new heights in this lifted AJ-1. The platform stance and high-top collar make a statement, while crisp leather and flashy finishes make these kicks the winning assist your outfit needs.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -268,7 +268,7 @@ export const nikeWomenShoes = [
       "These AJ1s give a classic silhouette the royal treatment. An all-over velvet upper in Purple Smoke looks super luxe, while the embroidered Swoosh, plush laces and colour-matched outsole let you hit refresh on a beloved hoops design.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrival",
     for: "Women's Shoes",
     size: [
       "US 6.5",

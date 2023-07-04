@@ -7,7 +7,7 @@ export const allShoes = [
       "Lace up for a run through the park or a walk to the coffee shop in these versatile adidas running shoes. They feel good from the minute you step in, thanks to the cushy Cloudfoam midsole. The textile upper feels comfy and breathable, and the rubber outsole gives you plenty of grip for a confident stride.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -36,7 +36,7 @@ export const allShoes = [
       "A combination of a lightweight & breathable engineered mesh upper with a full length LIGHTSTRIKE midsole for faster movement and durable outsole was built for runners looking to learn the ropes and push themselves to the next level.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -65,7 +65,7 @@ export const allShoes = [
       "Keep that pep in your step all game long. These adidas basketball shoes have Lightstrike cushioning that keeps you comfortable without weighing you down.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -94,7 +94,7 @@ export const allShoes = [
       "The Adizero Boston 12 Shoes are built for mid- to long-distance running. They bring a race-day feel to training with a propulsive feel that comes from the glass-fiber infused ENERGYRODS 2.0, which limit energy loss underfoot. They're fast, but that does not come at the cost of durability — the midsole layers ultra-light LIGHTSTRIKE PRO cushioning with a new version of durable LIGHTSTRIKE 2.0 EVA.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -123,7 +123,7 @@ export const allShoes = [
       " They feel good from the moment you step in, with a breathable mesh upper and padding at the tongue and heel. A precisely balanced mix of Bounce and BOOST cushioning delivers both comfort and energy so you enjoy every step on the road towards your personal running goals.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -152,7 +152,7 @@ export const allShoes = [
       "Made for players who use speed as their main weapon, these adidas basketball shoes have a lightweight feel to let you move freely on the hardwood.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -181,7 +181,7 @@ export const allShoes = [
       "Trae Young marches to the beat of his own drum. His signature adidas basketball shoes feature a low cut and a Bounce midsole that responds to your every move. The classic 3-Stripes have a serrated, textured design that goes from toe to midfoot. The rubber outsole with lateral grip zones gives you traction as you change directions or make quick cuts to the basket.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -210,7 +210,7 @@ export const allShoes = [
       "One of the coldest on the hardwood, Trae Young is absolutely fearless. He'll take any shot at any time, and when it's all on the line, look out, because Trae is about to steal the show. ",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -239,7 +239,7 @@ export const allShoes = [
       "Determination over negativity. That's what D.O.N. stands for, and it's also the fuel behind the fire that is Donovan Mitchell's fast and fearless game.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -268,7 +268,7 @@ export const allShoes = [
       "From his lethal stepback to his love of luxury fashion, there's no doubt that James Harden has style. With his signature shoes from adidas Basketball, it all comes into play.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -297,7 +297,7 @@ export const allShoes = [
       "From everyday errands to exploring the city, these adidas Ultraboost shoes bring undefeated comfort. The adidas PRIMEKNIT upper is designed to hug your feet for all-day support. ",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -326,7 +326,7 @@ export const allShoes = [
       "Whether you run near, far, swift or slow, the adidas Supernova 3 shoes help you run in your comfort zone.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -355,7 +355,7 @@ export const allShoes = [
       "Enjoy those long weekend walks in these adidas trainers. Taking design cues from archival running shoes, they have a clean, versatile aesthetic that stays grounded with an elevated midsole.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -384,7 +384,7 @@ export const allShoes = [
       "No one gets it done like you do. Step into a pair of adidas shoes that can keep up. The swift, angular design embodies your on-the-go lifestyle. The Cloudfoam midsole brings ultimate cushioning, so every step feels light and springy. It's a versatile look, with that confident style you're known for.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -413,7 +413,7 @@ export const allShoes = [
       "Run a little faster. Run a little further. With the light, soft and supportive feel of these adidas running shoes, you're set to take the next step in your running journey. ",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -442,7 +442,7 @@ export const allShoes = [
       "A combination of a lightweight & breathable engineered mesh upper with a full length LIGHTSTRIKE midsole for faster movement and durable outsole was built for runners looking to learn the ropes and push themselves to the next level.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -471,7 +471,7 @@ export const allShoes = [
       "Tackle your strength training and gym workouts without hesitation. These adidas training shoes help you level up your game. ",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -500,7 +500,7 @@ export const allShoes = [
       "Stay confident through every game, set and match. A lightweight mesh upper and padded heel make these adidas Gamecourt 2.0 shoes your perfect tennis partner.",
     sale: 10,
     category: "Tennis",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -529,7 +529,7 @@ export const allShoes = [
       "Speed buys time. Time earns points. That's why these adidas Adizero Ubersonic 4 tennis shoes were designed to get you to the ball faster.",
     sale: 20,
     category: "Tennis",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -558,7 +558,7 @@ export const allShoes = [
       "The perfect platform for hard court domination. These adidas Barricade tennis shoes have an intuitive lacing system that locks you in by pulling down the neoprene tongue to match your foot shape.",
     sale: 30,
     category: "Tennis",
-    promo: "",
+    promo: "Best Seller",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -588,7 +588,7 @@ export const allShoes = [
       "The 1080 delivers top-of-the-line performance to every kind of runner, whether you’re training for world-class competition, or catching a rush hour train. The Fresh Foam X 1080v12 represents a consistent progression of the model’s signature qualities.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -617,7 +617,7 @@ export const allShoes = [
       "Our 1540v3 is kitted out with technology that helps deliver mile-after-mile stability and combat overpronation. It's made with two layers of performance foam that offers superior support and a soft rebound.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -646,7 +646,7 @@ export const allShoes = [
       "What makes the 1080 unique isn’t just that it’s the best running shoe we make. It delivers the top-of-the-line performance of the best running shoe we make to every kind of runner.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -675,7 +675,7 @@ export const allShoes = [
       "Uneven terrain, debris, and moisture are unique challenges to footwear that require specialized construction. For those who take going off the beaten path literally, there’s the Fresh Foam X Hierro, a dedicated, off-road application of our best running technology.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -704,7 +704,7 @@ export const allShoes = [
       "Hit the road in any weather with the New Balance Fresh Foam Arishi v4 GTX running shoe. Designed to be capable, comfortable and durable, this runner features Fresh Foam midsole cushioning for a plush underfoot feel, and GORE-TEX® waterproof fabric in the upper to help keep feet protected.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -733,7 +733,7 @@ export const allShoes = [
       "Whether you enjoy lifting weights or performing weekly HIIT workouts, our Minimus TR men's training shoe is a must-have for anyone who craves support and a lightweight feel.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -762,7 +762,7 @@ export const allShoes = [
       "Built to perform from the gym floor to the turf to the concrete, the New Balance FuelCell Trainer v2 can do it all. ",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -791,7 +791,7 @@ export const allShoes = [
       "Whether you're lifting weights or performing weekly HIIT workouts, our New Balance Minimus TR BOA men's training shoe is a must-have for anyone who craves support and a lightweight feel.",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -820,7 +820,7 @@ export const allShoes = [
       "A signature shoe is more than a name. Its design expresses the qualities that make an individual stand out from the crowd in their chosen field. That’s why the Coco CG1 is a unique blend of statement making style and high-performance. ",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -849,7 +849,7 @@ export const allShoes = [
       "Enhance your footwork on hard courts with the New Balance 796v3. The 8 mm drop and REVlite cushioning create a reactive feel to help keep you on the ball, while the mesh upper with no-sew construction has a lightweight design to help you feel faster. ",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -878,7 +878,7 @@ export const allShoes = [
       "Function meets performance the New Balance Fresh Foam X 880v13. Featuring a plush and supportive Fresh Foam X midsole and NDurance rubber outsole, this shoe delivers enhanced performance and comfort with each step. ",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -907,7 +907,7 @@ export const allShoes = [
       "Our 1540v3 is kitted out with technology that helps deliver mile-after-mile stability and combat overpronation. It's made with two layers of performance foam that offers superior support and a soft rebound. ",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -936,7 +936,7 @@ export const allShoes = [
       "Revolutionizing comfort and style, the Fresh Foam Roav women's sneaker delivers an unbeatable ride that is just as comfortable around the foot as it is underneath it.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -965,7 +965,7 @@ export const allShoes = [
       "For those who take going off the beaten path literally, there’s the Fresh Foam X Hierro, a dedicated, off-road application of our best running technology.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -994,7 +994,7 @@ export const allShoes = [
       "Our comfortable and versatile 840v5 women's running shoe is designed for every runner. The full-length ABZORB midsole offers lasting cushioning and a responsive ride no matter your foot type, while the breathable mesh upper provides stretch for a supportive and stable fit where you need it.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1023,7 +1023,7 @@ export const allShoes = [
       "Zip around the court in comfort and style in the New Balance Fuel Cell 996v5. Our lightweight Fuel Cell foam midsole is paired with a hardwearing NDurance rubber outsole for a tennis shoe that provides superior comfort and traction. ",
     sale: 30,
     category: "Tennis",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1052,7 +1052,7 @@ export const allShoes = [
       "Enhance your footwork on hard courts with the New Balance 796v3. The 8 mm drop and REVlite cushioning create a reactive feel to help keep you on the ball, while the mesh upper with no-sew construction has a lightweight design to help you feel faster.",
     sale: 10,
     category: "Tennis",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1081,7 +1081,7 @@ export const allShoes = [
       "The New Balance DynaSoft Nergize Sport v2 is built to perform and styled for everyday wear. These versatile shoes feature a DynaSoft midsole for plush comfort and adjustable laces for a locked-in and supportive fit.",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1110,7 +1110,7 @@ export const allShoes = [
       "Slip into the New Balance DynaSoft Nergize Slip On for all-day comfort. These slip-on shoes feature easy on/off construction with a memory insert and DynaSoft midsole foam for cushioned comfort. A rubber outsole provides impressive durability.",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1139,7 +1139,7 @@ export const allShoes = [
       "Slip on the sleek, sporty comfort of the NB Nergize Sport. These everyday shoes feature REVlite midsole cushioning, a bootie construction for a snug fit, and a durable rubber outsole.",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "Latest Shoes",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1197,7 +1197,7 @@ export const allShoes = [
       "Let this esteemed stallion help you log the hard miles. Complete with lighter, responsive foam and a feathery upper, this motley-coloured mare helps you increase tempo without sacrificing comfort as you push towards a personal best.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1226,7 +1226,7 @@ export const allShoes = [
       "When you're ready to ramp up the speed and go the distance, take off in a model that's built for training and racing.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1255,7 +1255,7 @@ export const allShoes = [
       "Like Two Trey on MJ's licence plate, let your presence be known. This new generation of Jordan celebrates Mike's time in Chicago, complete with high-quality leather uppers and Air cushioned soles. ",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1284,7 +1284,7 @@ export const allShoes = [
       "Whenyou need a shoe that's ready 24/7, it's gotta be the Max Aura 5. Inspired by the AJ3, this pair of kicks puts a modern spin on the classic.",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1313,7 +1313,7 @@ export const allShoes = [
       "You've got the hops and the speed—lace up in shoes that enhance what you bring to the court. The latest AJ is all about take-offs and landings, with multiple Air units to get you off the ground.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1342,7 +1342,7 @@ export const allShoes = [
       "The longer LeBron's legendary career continues, the more his game needs a design that doesn't weigh him down, yet can still control all that sublime power.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1371,7 +1371,7 @@ export const allShoes = [
       " Our go-to model for training relies on a lighter, more breathable upper than our previous edition to complement our standards of durability and comfort, so that you can float through your cardio, power through your lifts and dominate your workouts.",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1400,7 +1400,7 @@ export const allShoes = [
       "The Nike City Rep TR is a versatile shoe that brings durability and flexibility to your active urban lifestyle. ",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1429,7 +1429,7 @@ export const allShoes = [
       "The new Nike SuperRep Go 3 Flyknit Shoe is a radical design story rooted in sustainability and innovation. ",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "New Arrivals",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1458,7 +1458,7 @@ export const allShoes = [
       "This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1487,7 +1487,7 @@ export const allShoes = [
       "This version has the same responsiveness and neutral support you love but with improved comfort in those sensitive areas of your foot, like the arch and toes.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1516,7 +1516,7 @@ export const allShoes = [
       "Let the Nike React Pegasus Trail 4 take you there and back again with its supportive and springy feel. Underfoot traction keeps you going over rocky terrain, while still providing a smooth ride for the road.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1545,7 +1545,7 @@ export const allShoes = [
       "The new Nike SuperRep Go 3 Flyknit is a radical design story rooted in innovation. Made from at least 20% recycled content by weight, the zoned Flyknit construction wraps your foot in 360 degrees of comfort and support.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1574,7 +1574,7 @@ export const allShoes = [
       "The Nike City Rep TR is a versatile shoe that brings durability and flexibility to your active lifestyle.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1603,7 +1603,7 @@ export const allShoes = [
       "Unleash your innermost strength and spirit in the Nike Zoom Bella 6. This design supports heavy lifts, explosive movements and primal post-set struts as you flaunt your hard-earned progress on the gym floor.",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1632,7 +1632,7 @@ export const allShoes = [
       "The Nike Free Metcon 4 combines flexibility with stability to help you get the most out of your training programme. ",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1661,7 +1661,7 @@ export const allShoes = [
       "A basketball shoe for you and your unique game. We gathered insights from female ballers and integrated them into this edition of the AJ XXXVII Low, engineered specifically for women.",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1690,7 +1690,7 @@ export const allShoes = [
       "Classic Jordan style reaches new heights in this lifted AJ-1. The platform stance and high-top collar make a statement, while crisp leather and flashy finishes make these kicks the winning assist your outfit needs.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1719,7 +1719,7 @@ export const allShoes = [
       "These AJ1s give a classic silhouette the royal treatment. An all-over velvet upper in Purple Smoke looks super luxe, while the embroidered Swoosh, plush laces and colour-matched outsole let you hit refresh on a beloved hoops design.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrivals",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1748,7 +1748,7 @@ export const allShoes = [
       "The off-season is for getting better. That means lots of running. Fast, stretchy UA HOVR™ Phantom 3 helps you explode through interval after interval with even more energy-returning UA HOVR™ cushioning. Run now…win later.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1777,7 +1777,7 @@ export const allShoes = [
       "There's fast, and then there's UA Flow fast. Lightweight, rubberless, and durable, our newest cushioning gives a close-to-the-ground, grippy feeling of speed. The kind of speed that feels like you've got the wind at your back.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1806,7 +1806,7 @@ export const allShoes = [
       "These are running shoes anyone can wear to go faster—with Charged Cushioning® to help protect against impact, a breathable upper, and durability for miles.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1835,7 +1835,7 @@ export const allShoes = [
       "Best for: Long & everyday runs in the rain with a water-repellent upper & reflective details, UA Storm technology treated upper repels water without sacrificing breathability, Aerodynamic heel design for support without any excess layers or bulk",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1864,7 +1864,7 @@ export const allShoes = [
       "These shoes were built for explosive movement and dynamic training, day in and day out. You never let up, neither do these—stability for strength training, flexibility for HIIT, and cushioning for mobility.",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1893,7 +1893,7 @@ export const allShoes = [
       "Our amazing energy-returning UA HOVR™ cushioning meets the flexible stability of our UA Tribase™outsole. That means every burpee, every ladder drill, every box jump, every movement becomes more explosive.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1922,7 +1922,7 @@ export const allShoes = [
       "The better your contact with the floor during your workouts, the better those workouts are going to be. The low, stable triangular base of the UA TriBase™ tech will help you through every rep, set, and WOD.",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1951,7 +1951,7 @@ export const allShoes = [
       "If you're a serious lifter these are the shoes you need. The midfoot strap keeps you locked in, the TPU heel lift helps support hip and ankle flexibility, and the outsole is firm and flat for maximum ground contact.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1980,7 +1980,7 @@ export const allShoes = [
       "These are light, comfortable, and tough enough to last all season—making them a go-to court shoe year after year.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -2009,7 +2009,7 @@ export const allShoes = [
       "Own the court in the original Curry 2s—back for a special, limited re-release. Make every cut more powerful with shock-absorbing cushioning and the custom-fit of a foot-hugging UA Speedform upper.",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "Trending",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -2038,7 +2038,7 @@ export const allShoes = [
       "Specially built for trail running, with crazy cushioning, traction that grips even muddy terrain, and the extra protection trail runners need to keep going.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2067,7 +2067,7 @@ export const allShoes = [
       "The UA HOVR™ Sonic is a no-brainer for runners who like distance but want more flexibility, a breathable feel, and the real-time feedback of Form Coaching from UA MapMyRun™ to help you run better every time you lace them up.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2096,7 +2096,7 @@ export const allShoes = [
       "The off-season is for getting better. That means lots of running. Fast, stretchy UA HOVR™ Phantom 3 helps you explode through interval after interval with even more energy-returning UA HOVR™ cushioning. Run now…win later.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2125,7 +2125,7 @@ export const allShoes = [
       "This year's UA Pride collection supports Unmatched Athlete, WorldPride, and Rainbow Labs, each with the goal of providing safe places for LGBTQ+ athletes and allies to play and compete.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2154,7 +2154,7 @@ export const allShoes = [
       "UA Charged Intake was designed to keep your feet cooler and drier, so you can log as many miles as you want.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2183,7 +2183,7 @@ export const allShoes = [
       "Feels like a cloud and fits like a glove. We took our super-springy UA HOVR™ cushioning and put it in a trainer that's built specifically for the female foot.",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2212,7 +2212,7 @@ export const allShoes = [
       "These are the most versatile training shoes we've ever made. They feel great, feel cool, cushion better, fit perfectly, handle your toughest training, AND have a heel that converts easily from recover mode to train mode.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2241,7 +2241,7 @@ export const allShoes = [
       "If you're a serious lifter these are the shoes you need. The midfoot strap keeps you locked in, the TPU heel lift helps support hip and ankle flexibility, and the outsole is firm and flat for maximum ground contact.",
     sale: 30,
     category: "Training",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2270,7 +2270,7 @@ export const allShoes = [
       "Women's feet are a different shape than men's. That's a fact. These shoes were built for women by women, giving you the best fit, support, and flex. And, with UA Flow cushioning you also get the best grip on any court.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2299,7 +2299,7 @@ export const allShoes = [
       "These shoes combine the light, grippy speed of Curry 10's UA Flow cushioning with the custom feel of your favorite Curry 1's form-fitting upper. Why? Because this unreal combo puts you a step ahead all game long.",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "Trending",
     for: "Women's Shoes",
     size: [
       "US 6.5",

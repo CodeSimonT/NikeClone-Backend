@@ -7,7 +7,7 @@ export const adidasMenShoes = [
       "Lace up for a run through the park or a walk to the coffee shop in these versatile adidas running shoes. They feel good from the minute you step in, thanks to the cushy Cloudfoam midsole. The textile upper feels comfy and breathable, and the rubber outsole gives you plenty of grip for a confident stride.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -36,7 +36,7 @@ export const adidasMenShoes = [
       "A combination of a lightweight & breathable engineered mesh upper with a full length LIGHTSTRIKE midsole for faster movement and durable outsole was built for runners looking to learn the ropes and push themselves to the next level.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -63,9 +63,9 @@ export const adidasMenShoes = [
     price: 8500,
     description:
       "Keep that pep in your step all game long. These adidas basketball shoes have Lightstrike cushioning that keeps you comfortable without weighing you down.",
-    sale: 30,
+    sale: 0,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -94,7 +94,7 @@ export const adidasMenShoes = [
       "The Adizero Boston 12 Shoes are built for mid- to long-distance running. They bring a race-day feel to training with a propulsive feel that comes from the glass-fiber infused ENERGYRODS 2.0, which limit energy loss underfoot. They're fast, but that does not come at the cost of durability — the midsole layers ultra-light LIGHTSTRIKE PRO cushioning with a new version of durable LIGHTSTRIKE 2.0 EVA.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -123,7 +123,7 @@ export const adidasMenShoes = [
       " They feel good from the moment you step in, with a breathable mesh upper and padding at the tongue and heel. A precisely balanced mix of Bounce and BOOST cushioning delivers both comfort and energy so you enjoy every step on the road towards your personal running goals.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -152,7 +152,7 @@ export const adidasMenShoes = [
       "Made for players who use speed as their main weapon, these adidas basketball shoes have a lightweight feel to let you move freely on the hardwood.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -181,7 +181,7 @@ export const adidasMenShoes = [
       "Trae Young marches to the beat of his own drum. His signature adidas basketball shoes feature a low cut and a Bounce midsole that responds to your every move. The classic 3-Stripes have a serrated, textured design that goes from toe to midfoot. The rubber outsole with lateral grip zones gives you traction as you change directions or make quick cuts to the basket.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -210,7 +210,7 @@ export const adidasMenShoes = [
       "One of the coldest on the hardwood, Trae Young is absolutely fearless. He'll take any shot at any time, and when it's all on the line, look out, because Trae is about to steal the show. ",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -239,7 +239,7 @@ export const adidasMenShoes = [
       "Determination over negativity. That's what D.O.N. stands for, and it's also the fuel behind the fire that is Donovan Mitchell's fast and fearless game.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -268,7 +268,7 @@ export const adidasMenShoes = [
       "From his lethal stepback to his love of luxury fashion, there's no doubt that James Harden has style. With his signature shoes from adidas Basketball, it all comes into play.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "Best Seller",
     for: "Men's Shoes",
     size: [
       "US 6.5",

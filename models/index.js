@@ -5,8 +5,9 @@ const addidasMenSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -19,8 +20,9 @@ const addidasWomenSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -36,8 +38,9 @@ const newbalanceMenSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -49,8 +52,9 @@ const newbalanceWomenSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -69,8 +73,9 @@ const nikeMenSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -83,8 +88,9 @@ const nikeWomenSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -101,8 +107,9 @@ const underarmourWomenSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -115,8 +122,9 @@ const underarmourMenSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -135,8 +143,9 @@ const allShoesSchema = mongoose.Schema({
   title: String,
   price: Number,
   description: String,
-  sale: String,
+  sale: Number,
   category: String,
+  promo: String,
   for: String,
   size: {
     type: [String],
@@ -145,6 +154,32 @@ const allShoesSchema = mongoose.Schema({
 });
 
 const allShoesS = mongoose.model("allShoes", allShoesSchema);
+
+// userSchema
+const cartItemSchema = new mongoose.Schema({
+  product: {
+    id: { type: String, required: true },
+    title: { type: String, required: true },
+    price: { type: Number, required: true },
+    description: { type: String, required: true },
+    sale: { type: Number },
+    category: { type: String },
+    promo: { type: String },
+    for: { type: String },
+    size: { type: [String] },
+    image: { type: String },
+  },
+  quantity: { type: Number, default: 1 },
+});
+
+const userSchema = mongoose.Schema({
+  UserName: { type: String, unique: true },
+  email: { type: String, unique: true },
+  password: { type: String, required: true },
+  cart: [cartItemSchema],
+});
+
+const User = mongoose.model("User", userSchema);
 
 export {
   AddidasMen,
@@ -156,4 +191,5 @@ export {
   underarmourWomen,
   underarmourMen,
   allShoesS,
+  User,
 };

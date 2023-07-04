@@ -7,7 +7,7 @@ export const nikeMenShoes = [
       "With maximum cushioning to support every mile, the Invincible 3 gives you our highest level of comfort underfoot to help you stay on your feet today, tomorrow and beyond.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -36,7 +36,7 @@ export const nikeMenShoes = [
       "Let this esteemed stallion help you log the hard miles. Complete with lighter, responsive foam and a feathery upper, this motley-coloured mare helps you increase tempo without sacrificing comfort as you push towards a personal best.",
     sale: 20,
     category: "Running",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -65,7 +65,7 @@ export const nikeMenShoes = [
       "When you're ready to ramp up the speed and go the distance, take off in a model that's built for training and racing.",
     sale: 30,
     category: "Running",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -94,7 +94,7 @@ export const nikeMenShoes = [
       "Like Two Trey on MJ's licence plate, let your presence be known. This new generation of Jordan celebrates Mike's time in Chicago, complete with high-quality leather uppers and Air cushioned soles. ",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -123,7 +123,7 @@ export const nikeMenShoes = [
       "Whenyou need a shoe that's ready 24/7, it's gotta be the Max Aura 5. Inspired by the AJ3, this pair of kicks puts a modern spin on the classic.",
     sale: 20,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -152,7 +152,7 @@ export const nikeMenShoes = [
       "You've got the hops and the speed—lace up in shoes that enhance what you bring to the court. The latest AJ is all about take-offs and landings, with multiple Air units to get you off the ground.",
     sale: 30,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -181,7 +181,7 @@ export const nikeMenShoes = [
       "The longer LeBron's legendary career continues, the more his game needs a design that doesn't weigh him down, yet can still control all that sublime power.",
     sale: 10,
     category: "Basketball",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -210,7 +210,7 @@ export const nikeMenShoes = [
       " Our go-to model for training relies on a lighter, more breathable upper than our previous edition to complement our standards of durability and comfort, so that you can float through your cardio, power through your lifts and dominate your workouts.",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -239,7 +239,7 @@ export const nikeMenShoes = [
       "The Nike City Rep TR is a versatile shoe that brings durability and flexibility to your active urban lifestyle. ",
     sale: 10,
     category: "Training",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -268,7 +268,7 @@ export const nikeMenShoes = [
       "The new Nike SuperRep Go 3 Flyknit Shoe is a radical design story rooted in sustainability and innovation. ",
     sale: 20,
     category: "Training",
-    promo: "",
+    promo: "New Arrival",
     for: "Men's Shoes",
     size: [
       "US 6.5",
