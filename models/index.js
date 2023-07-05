@@ -173,13 +173,21 @@ const cartItemSchema = new mongoose.Schema({
 });
 
 const userSchema = mongoose.Schema({
-  UserName: { type: String, unique: true },
-  email: { type: String, unique: true },
+  UserName: { type: String },
+  email: { type: String },
+  password: { type: String, required: true },
+  cart: [cartItemSchema],
+});
+
+const userSchema1 = mongoose.Schema({
+  UserName: { type: String },
+  email: { type: String },
   password: { type: String, required: true },
   cart: [cartItemSchema],
 });
 
 const User = mongoose.model("User", userSchema);
+const User1 = mongoose.model("User1", userSchema1);
 
 export {
   AddidasMen,
@@ -192,4 +200,5 @@ export {
   underarmourMen,
   allShoesS,
   User,
+  User1,
 };

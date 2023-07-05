@@ -7,10 +7,10 @@ const secret = "secret";
 
 const register = async (req, res) => {
   try {
-    const { email, firstname, lastname, password } = req.body;
+    const { firstname, lastname, email, password } = req.body;
     const hashedPassword = await bcrypt.hash(password, 10);
-    const user = await User.create({
-      username: `${firstname} ${lastname}`,
+    let user = await User.create({
+      username: firstname,
       email,
       password: hashedPassword,
     });
@@ -18,6 +18,22 @@ const register = async (req, res) => {
     res.status(201).json({ message: "User registered successfully", user });
   } catch (error) {
     res.status(500).json({ message: "Error registering user", error });
+  }
+};
+
+const register1 = async (req, res) => {
+  const { firstname, lastname, email, password } = req.body;
+  try {
+    const hashedPassword = await bcrypt.hash(password, 10);
+    const user = await User.create({
+      email,
+      password: hashedPassword,
+      username: `${firstname} ${lastname}`,
+    });
+
+    res.status(201).json({ message: "User registered successfully", user });
+  } catch (error) {
+    res.status(500).json({ message: "Error registering user1", error });
   }
 };
 
@@ -54,6 +70,7 @@ const authenticateUser = (req, res, next) => {
   try {
     const decodedToken = jwt.verify(token, secret);
     req.userId = decodedToken.userId;
+    console.log(req.userId);
     next();
   } catch (error) {
     res.status(401).json({ message: "Invalid token" });
@@ -122,6 +139,7 @@ const retriveCart = async (req, res) => {
 
 export {
   register,
+  register1,
   login,
   authenticateUser,
   addToCart,

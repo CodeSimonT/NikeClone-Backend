@@ -3,6 +3,7 @@ const userRouter = express.Router();
 // user and add to cart feature
 import {
   register,
+  register1,
   login,
   authenticateUser,
   addToCart,
@@ -12,6 +13,7 @@ import {
 
 // routes for user
 userRouter.post("/register", register);
+userRouter.post("/register1", register1);
 userRouter.post("/login", login);
 // cart
 // add
