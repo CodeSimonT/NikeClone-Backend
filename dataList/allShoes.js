@@ -8,6 +8,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -37,6 +39,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -66,6 +70,8 @@ export const allShoes = [
     sale: 30,
     category: "Basketball",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -95,6 +101,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -124,6 +132,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -153,6 +163,8 @@ export const allShoes = [
     sale: 30,
     category: "Basketball",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -182,6 +194,8 @@ export const allShoes = [
     sale: 10,
     category: "Basketball",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -211,6 +225,8 @@ export const allShoes = [
     sale: 20,
     category: "Basketball",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -240,6 +256,8 @@ export const allShoes = [
     sale: 30,
     category: "Basketball",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -269,6 +287,8 @@ export const allShoes = [
     sale: 10,
     category: "Basketball",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -298,6 +318,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -327,6 +349,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -356,6 +380,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -385,6 +411,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -414,6 +442,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -443,6 +473,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -472,6 +504,8 @@ export const allShoes = [
     sale: 30,
     category: "Training",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -501,6 +535,8 @@ export const allShoes = [
     sale: 10,
     category: "Tennis",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -530,6 +566,8 @@ export const allShoes = [
     sale: 20,
     category: "Tennis",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -559,6 +597,8 @@ export const allShoes = [
     sale: 30,
     category: "Tennis",
     promo: "Best Seller",
+    brand: "Adidas",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -589,6 +629,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -618,6 +660,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -647,6 +691,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -676,6 +722,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -705,6 +753,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -734,6 +784,8 @@ export const allShoes = [
     sale: 30,
     category: "Training",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -763,6 +815,8 @@ export const allShoes = [
     sale: 10,
     category: "Training",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -792,6 +846,8 @@ export const allShoes = [
     sale: 20,
     category: "Training",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -821,6 +877,8 @@ export const allShoes = [
     sale: 20,
     category: "Basketball",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -850,6 +908,8 @@ export const allShoes = [
     sale: 30,
     category: "Basketball",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -879,6 +939,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -908,6 +970,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -937,6 +1001,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -966,6 +1032,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -995,6 +1063,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1024,6 +1094,8 @@ export const allShoes = [
     sale: 30,
     category: "Tennis",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1053,6 +1125,8 @@ export const allShoes = [
     sale: 10,
     category: "Tennis",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1082,6 +1156,8 @@ export const allShoes = [
     sale: 20,
     category: "Training",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1111,6 +1187,8 @@ export const allShoes = [
     sale: 10,
     category: "Training",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1140,6 +1218,8 @@ export const allShoes = [
     sale: 10,
     category: "Training",
     promo: "Latest Shoes",
+    brand: "Newbalance",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1168,7 +1248,9 @@ export const allShoes = [
       "With maximum cushioning to support every mile, the Invincible 3 gives you our highest level of comfort underfoot to help you stay on your feet today, tomorrow and beyond.",
     sale: 10,
     category: "Running",
-    promo: "",
+    promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1198,6 +1280,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1227,6 +1311,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1256,6 +1342,8 @@ export const allShoes = [
     sale: 10,
     category: "Basketball",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1285,6 +1373,8 @@ export const allShoes = [
     sale: 20,
     category: "Basketball",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1314,6 +1404,8 @@ export const allShoes = [
     sale: 30,
     category: "Basketball",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1343,6 +1435,8 @@ export const allShoes = [
     sale: 10,
     category: "Basketball",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1372,6 +1466,8 @@ export const allShoes = [
     sale: 20,
     category: "Training",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1401,6 +1497,8 @@ export const allShoes = [
     sale: 10,
     category: "Training",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1430,6 +1528,8 @@ export const allShoes = [
     sale: 20,
     category: "Training",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1459,6 +1559,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1488,6 +1590,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1517,6 +1621,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1546,6 +1652,8 @@ export const allShoes = [
     sale: 30,
     category: "Training",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1575,6 +1683,8 @@ export const allShoes = [
     sale: 30,
     category: "Training",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1604,6 +1714,8 @@ export const allShoes = [
     sale: 10,
     category: "Training",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1633,6 +1745,8 @@ export const allShoes = [
     sale: 10,
     category: "Training",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1662,6 +1776,8 @@ export const allShoes = [
     sale: 20,
     category: "Basketball",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1691,6 +1807,8 @@ export const allShoes = [
     sale: 30,
     category: "Basketball",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1720,6 +1838,8 @@ export const allShoes = [
     sale: 10,
     category: "Basketball",
     promo: "New Arrivals",
+    brand: "Nike",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -1749,6 +1869,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1778,6 +1900,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1807,6 +1931,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1836,6 +1962,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1865,6 +1993,8 @@ export const allShoes = [
     sale: 20,
     category: "Training",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1894,6 +2024,8 @@ export const allShoes = [
     sale: 30,
     category: "Training",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1923,6 +2055,8 @@ export const allShoes = [
     sale: 10,
     category: "Training",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1952,6 +2086,8 @@ export const allShoes = [
     sale: 30,
     category: "Training",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -1981,6 +2117,8 @@ export const allShoes = [
     sale: 10,
     category: "Basketball",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -2010,6 +2148,8 @@ export const allShoes = [
     sale: 20,
     category: "Basketball",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Men",
     for: "Men's Shoes",
     size: [
       "US 6.5",
@@ -2039,6 +2179,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2068,6 +2210,8 @@ export const allShoes = [
     sale: 20,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2097,6 +2241,8 @@ export const allShoes = [
     sale: 30,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2126,6 +2272,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2155,6 +2303,8 @@ export const allShoes = [
     sale: 10,
     category: "Running",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2184,6 +2334,8 @@ export const allShoes = [
     sale: 10,
     category: "Training",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2213,6 +2365,8 @@ export const allShoes = [
     sale: 30,
     category: "Training",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2242,6 +2396,8 @@ export const allShoes = [
     sale: 30,
     category: "Training",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2271,6 +2427,8 @@ export const allShoes = [
     sale: 10,
     category: "Basketball",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",
@@ -2300,6 +2458,8 @@ export const allShoes = [
     sale: 20,
     category: "Basketball",
     promo: "Trending",
+    brand: "Underarmour",
+    sex: "Women",
     for: "Women's Shoes",
     size: [
       "US 6.5",

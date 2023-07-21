@@ -1,7 +1,6 @@
 import { User } from "../models/index.js";
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
-import { trusted } from "mongoose";
 
 const secret = "secret";
 
@@ -10,30 +9,22 @@ const register = async (req, res) => {
     const { firstname, lastname, email, password } = req.body;
     const hashedPassword = await bcrypt.hash(password, 10);
     let user = await User.create({
-      username: firstname,
+      username: `${firstname} ${lastname}`,
       email,
       password: hashedPassword,
     });
 
-    res.status(201).json({ message: "User registered successfully", user });
+    const userId = await User.findOne({ email });
+
+    const token = jwt.sign({ userId: userId._id }, secret, {
+      expiresIn: "100y",
+    });
+
+    res
+      .status(201)
+      .json({ message: "User registered successfully", token, user });
   } catch (error) {
     res.status(500).json({ message: "Error registering user", error });
-  }
-};
-
-const register1 = async (req, res) => {
-  const { firstname, lastname, email, password } = req.body;
-  try {
-    const hashedPassword = await bcrypt.hash(password, 10);
-    const user = await User.create({
-      email,
-      password: hashedPassword,
-      username: `${firstname} ${lastname}`,
-    });
-
-    res.status(201).json({ message: "User registered successfully", user });
-  } catch (error) {
-    res.status(500).json({ message: "Error registering user1", error });
   }
 };
 
@@ -70,7 +61,6 @@ const authenticateUser = (req, res, next) => {
   try {
     const decodedToken = jwt.verify(token, secret);
     req.userId = decodedToken.userId;
-    console.log(req.userId);
     next();
   } catch (error) {
     res.status(401).json({ message: "Invalid token" });
@@ -84,9 +74,14 @@ const addToCart = async (req, res) => {
     const existingCartItem = user.cart.find(
       (item) => item.product.id === product.id
     );
+    const differentSize = user.cart.find(
+      (item) => item.product.size !== product.size
+    );
 
-    if (existingCartItem) {
+    if (existingCartItem && differentSize) {
       // If the product already exists in the cart, increment the quantity
+      user.cart.unshift({ product, quantity: 1 });
+    } else if (existingCartItem) {
       existingCartItem.quantity += 1;
     } else {
       // If the product doesn't exist, add it as a new item in the cart
@@ -137,12 +132,59 @@ const retriveCart = async (req, res) => {
   }
 };
 
+// quantity
+const addOne = async (req, res) => {
+  try {
+    const { productId } = req.params;
+    const { item } = req.body;
+    const user = await User.findById(req.userId);
+    const existingCartItem = user.cart.find(
+      (item) => item._id.toString() === productId
+    );
+
+    if (existingCartItem) {
+      const previousQuantity = existingCartItem.quantity; // Store the previous quantity
+      existingCartItem.quantity = item;
+      existingCartItem.product.price =
+        (existingCartItem.product.price / previousQuantity) * item;
+      await user.save(); // Save the updated user to persist the changes
+      res.status(200).json({ msg: "Quantity incremented" });
+    } else {
+      res.status(404).json({ msg: "Product not found in cart" });
+    }
+  } catch (error) {
+    res.status(500).json({ msg: error.message });
+  }
+};
+
+const shoeSize = async (req, res) => {
+  try {
+    const { productId } = req.params;
+    const { item } = req.body;
+    const user = await User.findById(req.userId);
+    const existingCartItem = user.cart.find(
+      (item) => item._id.toString() === productId
+    );
+
+    if (existingCartItem) {
+      existingCartItem.product.size = item;
+      await user.save(); // Save the updated user to persist the changes
+      res.status(200).json({ msg: "Quantity incremented" });
+    } else {
+      res.status(404).json({ msg: "Product not found in cart" });
+    }
+  } catch (error) {
+    res.status(500).json({ msg: error.message });
+  }
+};
+
 export {
   register,
-  register1,
   login,
   authenticateUser,
   addToCart,
   deleteCart,
   retriveCart,
+  addOne,
+  shoeSize,
 };

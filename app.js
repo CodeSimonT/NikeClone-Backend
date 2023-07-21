@@ -16,11 +16,13 @@ app.use(express.json());
 app.use(express.urlencoded({ limit: "30mb", extended: true }));
 
 // if ever you need to add data to the data base just need datalist and model schema
-// adidasMenShoes.forEach(async (shoe) => {
+// allShoes.forEach(async (shoe) => {
 //   try {
-//     const newShoe = AddidasMen(shoe);
+//     const newShoe = allShoesS(shoe);
 //     newShoe.save();
-//   } catch (error) {}
+//   } catch (error) {
+//     console.log(error);
+//   }
 // });
 
 // // routes

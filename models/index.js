@@ -146,6 +146,8 @@ const allShoesSchema = mongoose.Schema({
   sale: Number,
   category: String,
   promo: String,
+  brand: String,
+  sex: String,
   for: String,
   size: {
     type: [String],
