@@ -11,6 +11,12 @@ import {
   retriveCart,
   addOne,
   shoeSize,
+  updateUserAddress,
+  getUser,
+  checkoutItems,
+  getOrder,
+  receivedItem,
+  getReceived,
 } from "../controllers/user.js";
 
 // routes for user
@@ -27,4 +33,17 @@ userRouter.get("/retriveCart", authenticateUser, retriveCart);
 userRouter.patch("/addOne/:productId", authenticateUser, addOne);
 // size
 userRouter.patch("/shoeSize/:productId", authenticateUser, shoeSize);
+// updateUserAddress
+userRouter.post("/updateUserAddress", authenticateUser, updateUserAddress);
+// get user Data
+userRouter.get("/getUser", authenticateUser, getUser);
+//checkout
+userRouter.post("/checkoutItems", authenticateUser, checkoutItems);
+// get order
+userRouter.get("/getOrder", authenticateUser, getOrder);
+// received item
+userRouter.post("/receivedItem", authenticateUser, receivedItem);
+// get received
+userRouter.get("/getReceived", authenticateUser, getReceived);
+
 export default userRouter;

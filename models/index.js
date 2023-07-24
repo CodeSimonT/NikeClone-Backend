@@ -173,12 +173,25 @@ const cartItemSchema = new mongoose.Schema({
   },
   quantity: { type: Number, default: 1 },
 });
-
+const orderedItemSchema = new mongoose.Schema({
+  items: [cartItemSchema],
+  orderedDate: { type: Date, default: Date.now },
+});
+const receivedItemSchema = new mongoose.Schema({
+  items: [cartItemSchema],
+  receivedDate: { type: Date, default: Date.now },
+});
 const userSchema = mongoose.Schema({
-  UserName: { type: String },
+  username: { type: String },
   email: { type: String },
   password: { type: String, required: true },
   cart: [cartItemSchema],
+  ordered: [orderedItemSchema],
+  received: [receivedItemSchema],
+  houseNumber: { type: Number },
+  city: { type: String },
+  address: { type: String },
+  country: { type: String },
 });
 
 const userSchema1 = mongoose.Schema({
